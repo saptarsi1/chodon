@@ -1,0 +1,5 @@
+2*1=du
+2*2=du du
+2*3=du du du
+2*4=du du du du
+2*5=du du du du du
