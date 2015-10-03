@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main()
+{
+	printf("Kakachode Kakihase");
+	return 0;
+}
